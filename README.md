@@ -26,26 +26,6 @@ Most businesses lose leads because:
 
 **This system fixes all three — instantly and automatically.**
 
-## ⚙️ How It Works
-
----
-
-## 📸 Screenshots
-
-### Full Workflow Canvas
-![Workflow Overview](screenshots/workflow-overview.png)
-
-### Live Execution — All Nodes Passing ✅
-![Execution Result](screenshots/execution-result.png)
-
-### GPT-4 Intent Scoring Node
-![GPT4 Node](screenshots/gpt4-node-config.png)
-
-### Automated Response Output
-![Agent Output](screenshots/agent-output.png)
-
-### CRM Record Created Automatically
-![CRM Sync](screenshots/crm-sync-result.png)
 
 ---
 
@@ -70,17 +50,6 @@ Most businesses lose leads because:
 | **CRM API** | Automatic record creation & sync |
 | **JSON Pipeline** | Structured data extraction |
 
----
-
-## ⬇️ Import & Use This Workflow
-
-You can import this entire system into your own n8n in 3 steps:
-
-1. Download [`workflow.json`](workflow.json) from this repo
-2. Open your n8n → click **Import** → upload the file
-3. Add your OpenAI API key and CRM webhook URL in credentials
-
-**The entire automation is ready to run immediately.**
 
 ---
 
